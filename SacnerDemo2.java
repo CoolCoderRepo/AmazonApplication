@@ -9,5 +9,11 @@ class  SacnerDemo2
 		l.add(30);
 		l.add(30);
 		System.out.println(l);
+		LinkedList l = new LinkedList();
+		l.add(10);
+		l.add(20);
+		l.add(30);
+		l.add(30);
+		System.out.println(l);
 	}
 }
